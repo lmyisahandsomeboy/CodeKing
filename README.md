@@ -58,7 +58,7 @@
 ## 构建与运行
 
 1. **安装 Qt 环境**  
-   推荐使用 Qt 5.12 及以上版本，确保包含 Qt Widgets 模块。
+   推荐使用 Qt 6.5 及以上版本，确保包含 Qt Widgets 模块。
 
 2. **打开项目**  
    使用 Qt Creator 打开 `CodeKing.pro` 工程文件。
